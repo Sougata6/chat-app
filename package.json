@@ -1,0 +1,24 @@
+{
+  "name": "socket-chat-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "start-app": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Sougata6/chat-app.git"
+  },
+  "author": "Sougata Jana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sougata6/chat-app/issues"
+  },
+  "homepage": "https://github.com/Sougata6/chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
